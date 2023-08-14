@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "C:/Users/Hp Pavilion/Desktop/new_post/post/windows/flutter",
+    "yaml.schemas": {
+        "file:///c%3A/Users/Hp%20Pavilion/.vscode/extensions/atlassian.atlascode-3.0.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "https://json.schemastore.org/pubspec.json": "file:///c%3A/Users/Hp%20Pavilion/Desktop/new_post/post/pubspec.yaml"
+    }
+}
